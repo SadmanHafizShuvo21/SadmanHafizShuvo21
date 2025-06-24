@@ -1,56 +1,43 @@
-# 👋 Hi, I'm Sadman Hafiz Shuvo
+<h1 align="center">Hi there 👋, I'm Sadman Hafiz Shuvo</h1>
 
-Welcome to my GitHub! I'm a passionate **Software Engineer** from Bangladesh who loves to build scalable systems, beautiful UIs, and efficient algorithms.
+<p align="center">
+  💻 Software Engineer | 🧠 Competitive Programmer | 📱 Flutter Developer  
+</p>
 
----
-
-## 💻 Tech Stack & Interests
-
-- **Languages:** C++, JavaScript, PHP, Dart  
-- **Frontend:** React, Tailwind CSS, Framer Motion, Heroicons  
-- **Backend:** Node.js, Firebase, MySQL, XAMPP  
-- **Mobile:** Flutter  
-- **Tools:** VS Code, Git, Postman  
-- **Competitive Programming:** C++ (C++23, STL, Algorithms, CP Templates)  
-- **Others:** Session management, CSRF protection, MVC design pattern
+<p align="center">
+  <a href="mailto:sadmanhafizshuvo21@gmail.com"><img src="https://img.shields.io/badge/email-sadmanhafizshuvo21@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/sadmanhafizshuvo21"><img src="https://img.shields.io/badge/LinkedIn-SadmanHafizShuvo21-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
 
 ---
 
-## 🚧 Current Projects
+## 🚀 About Me
 
-- 📦 **Inventory Management System** (Flutter + Firebase)
-- 🛍️ **E-commerce Website** with product cards, cart logic, user auth (PHP + JS)
-- 🧮 Solving algorithmic problems (greedy, number theory, recursion, Mo's Algo)
+- 🔭 I’m currently working on:
+  - A **Flutter + Firebase** Inventory Management System
+  - A full-featured **E-commerce Website** using PHP, JS & MySQL
+  - Solving **Competitive Programming** problems in **C++ (C++23)**
 
----
+- 🌱 I’m currently learning:
+  - Advanced React + Tailwind + Framer Motion animations
+  - Efficient database handling (MySQL, session-based sync)
+  - System Design and Analysis (DLD, SAD)
 
-## 🌱 Currently Learning
-
-- Advanced backend architecture and security
-- Clean, responsive UI/UX in React & Tailwind CSS
-- Real-world system analysis & design (SAD, DLD)
-
----
-
-## 🛠️ Skills in Action
-
-- 🔐 Built a secure login/signup system with CSRF token support
-- 🛒 Implemented a session + DB-synced shopping cart with UI constraints
-- 🎯 Solved advanced CP problems using greedy, binary search, and graph theory
+- 💡 I love combining **system logic** with **real-world UI/UX design**
+- 🧠 I solve CP problems using **greedy, binary search, number theory**, and more
 
 ---
 
-## 📫 Contact Me
+## 🛠️ Tech Stack
 
-- 📧 Email: `sadmanhafizshuvo21@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/sadmanhafizshuvo21](https://linkedin.com/in/sadmanhafizshuvo21)
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
----
-
-## ⚡ Fun Fact
-
-I often mix system design with competitive programming logic — clean systems and efficient code are my happy place. 🚀
-
-> “Stay curious, build often, break things, and fix them better.”
-
-
+### 🧩 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-black?style=flat&logo=framer&logoColor=white)
+![Flutter](https://img.sh)
