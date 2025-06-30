@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ug2102021@cse.pstu.ac.bd"><img src="https://img.shields.io/badge/email-ug2102021@cse.pstu.ac.bd-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="ug2102021@cse.pstu.ac.bd"><img src="https://img.shields.io/badge/email-ug2102021@cse.pstu.ac.bd-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
