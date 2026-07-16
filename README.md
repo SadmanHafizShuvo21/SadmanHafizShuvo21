@@ -73,13 +73,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadmanHafizShuvo21&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadmanHafizShuvo21&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SadmanHafizShuvo21&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=SadmanHafizShuvo21&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadmanHafizShuvo21&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=SadmanHafizShuvo21&theme=darkhub&no-frame=true&row=2&column=3" alt="Trophies" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadmanHafizShuvo21&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SadmanHafizShuvo21&theme=onedark&no-frame=true&row=2&column=3" alt="Trophies" height="165"/>
 </div>
 
 <div align="center">
