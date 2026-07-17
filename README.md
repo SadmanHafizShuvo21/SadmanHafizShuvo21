@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-- 🎓 CS&IT student at **Patuakhali Science and Technology University (PSTU)** — Level 3, Semester 6
+- 🎓 CS&IT student at **Patuakhali Science and Technology University (PSTU)** — Level 4, Semester 1
 - 🔭 Currently building:
   - 🧩 **ProblemSolversHub** — a Flutter + Firebase app for sharing competitive-programming solutions (Riverpod, GetIt, go_router)
   - 🖥️ **EduOS** — a C++ OS simulator with CPU scheduling, memory management, virtual file system & deadlock detection (adding a Qt6 GUI)
