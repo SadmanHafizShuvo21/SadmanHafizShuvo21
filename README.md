@@ -90,9 +90,9 @@
 
 ## 🧠 Competitive Programming
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://leetcard.jacoblin.cool/SadmanHafizShuvo21?theme=dark&font=Fira+Code&extension=activity" alt="LeetCode Stats"/>
-</div>
+</div> -->
 
 - ⚡ Fast I/O + optimized C++23 templates
 - 📊 Focus areas: greedy, binary search, graphs, DP, number theory
